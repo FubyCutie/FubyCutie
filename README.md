@@ -1,9 +1,7 @@
 <div align="center">
   <h2>GitHub Stats</h2>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FubyCutie&repo=github-readme-stats&theme=aura" />
-</a>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FubyCutie&show_icons=true&theme=aura" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FubyCutie&show_icons=true&theme=aura" />
 
 
